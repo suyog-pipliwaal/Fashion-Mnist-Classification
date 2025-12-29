@@ -79,18 +79,21 @@ Log: "Epoch X: loss: Y, train acc: Z%, valid acc: W%"
 
 
 ### Accuracy vs Epoch for different activation
-Using Relu+dropout activation function
+
 ![alt text](relu_dropout.png "Title")
+*Using Relu+dropout activation function*
 
-Using Relu activation function
+
 ![alt text](relu.png "Title")
+*Using Relu activation function*
 
-Using Sigmod activation function
+
 ![alt text](sigmoid.png "Title")
+*Using sigmoid activation function*
 
-Using tanh activation function
+
 ![alt text](tanh.png "Title") 
-
+*Using tanh activation function*
 ## Project Deliverables
 
 - ✅ Complete training code with 5 activation variants
